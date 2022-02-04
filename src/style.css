@@ -1,0 +1,27 @@
+#form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30vh;
+}
+
+#form p {
+  display: inline;
+  font-size: 20px;
+}
+
+#form input {
+  padding: 10px 0px 10px 100px;
+  margin-left: 6vh;
+  border-radius: 5px;
+}
+
+#form button {
+  margin-left: 24vh;
+  padding: 14px;
+  border-radius: 5px;
+}
+#result {
+  font-size: 20px;
+  margin-left: 73vh;
+}
